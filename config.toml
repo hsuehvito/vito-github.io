@@ -45,8 +45,8 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "Enter the Content"
-subtitle = "Enter the Content"
+title = "ff"
+subtitle = "gg"
 imageUrl = "img/github-mark.png"
 imageWidth = 120
 imageHeight = 120
